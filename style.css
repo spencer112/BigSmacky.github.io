@@ -1,0 +1,61 @@
+body {
+  background-color: black;
+}
+
+h1.header {
+  color: purple;
+  text-align: center;
+  font-family: arial;
+  font-style: italic; 
+}
+
+p.tabs {
+  text-align: center;
+}
+
+p.subheader {
+  text-align: center;
+  color:purple;
+  font-family:arial;
+  font-style: italic; 
+  font-weight: bold;
+  font-size: 64px;
+}
+
+p.maintext {
+	white-space: pre-wrap;
+	font-variant-ligatures: none;
+	font-style: inherit;
+	font-family: Lato, sans-serif;
+	font-weight: 400;
+	line-height: 1.4;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+	text-align: left;
+	box-sizing: border-box;
+	display: inline-block;
+	max-width: 100%;
+	pointer-events: all;
+	position: relative;	
+}
+
+h1.logo {
+  text-align: center;
+}
+
+p.center {
+	style="white-space: pre-wrap;
+font-variant-ligatures: none;
+font-style: inherit;
+font-family: Lato, sans-serif;
+font-weight: 400;
+line-height: 1.4;
+font-size: 23px;
+color: rgba(255,255,255,1);
+text-align: center;
+box-sizing: border-box;
+display: inline-block;
+max-width: 100%;
+pointer-events: all;
+position: relative;
+}
