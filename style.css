@@ -60,9 +60,21 @@ pointer-events: all;
 position: relative;
 }
 
-<!-- attempt to make the center function work on the group chat text. -->
-<style>
-.center {
- text-align: center
+
+
+p.maintextcentered {
+	white-space: pre-wrap;
+	font-variant-ligatures: none;
+	font-style: inherit;
+	font-family: Lato, sans-serif;
+	font-weight: 400;
+	line-height: 1.4;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+	text-align: center;
+	box-sizing: border-box;
+	display: inline-block;
+	max-width: 100%;
+	pointer-events: all;
+	position: relative;	
 }
-</style>
