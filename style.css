@@ -43,7 +43,7 @@ h1.logo {
   text-align: center;
 }
 
-p.center {
+p.center1 {
 	style="white-space: pre-wrap;
 font-variant-ligatures: none;
 font-style: inherit;
@@ -59,6 +59,12 @@ max-width: 100%;
 pointer-events: all;
 position: relative;
 }
+
+<style>
+p.center {
+ text-align: center
+}
+</style>
 
 
 
