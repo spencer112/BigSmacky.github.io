@@ -1,1 +1,0 @@
-/* if this were in an html file, we'd have a script tag */alert("We've updated Big Smacky: We now have links to our game page, groupchat, desktop site, and  our email. We did this to help keep Big Smacky organized and easy to use") 

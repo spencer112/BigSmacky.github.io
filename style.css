@@ -100,11 +100,6 @@ body.papa {
 .topnav {
   overflow: hidden;
   background-color: #800080;
-  float: none;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
 }
 
 .topnav a {
@@ -125,4 +120,8 @@ body.papa {
 .topnav a.active {
   background-color: #800080;
   color: black;
+}
+
+p.papa {
+  text-align: center;
 }
