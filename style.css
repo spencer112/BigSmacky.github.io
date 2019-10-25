@@ -117,6 +117,6 @@ body.papa {
 }
 
 .topnav a.active {
-  background-color: #4CAF50;
-  color: white;
+  background-color: #800080;
+  color: black;
 }
