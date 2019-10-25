@@ -100,7 +100,7 @@ body.papa {
 .topnav {
   overflow: hidden;
   background-color: #800080;
-  float: none;
+  float: center;
   position: absolute;
   top: 50%;
   left: 50%;
