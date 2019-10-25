@@ -114,12 +114,12 @@ body.papa {
 
 .topnav a:hover {
   background-color: #800080;
-  color: black;
+  color: white;
 }
 
 .topnav a.active {
   background-color: #800080;
-  color: black;
+  color: white;
 }
 
 p.papa {
