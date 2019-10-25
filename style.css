@@ -99,7 +99,7 @@ body.papa {
 
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: #800080;
 }
 
 .topnav a {
@@ -112,7 +112,7 @@ body.papa {
 }
 
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: #800080;
   color: black;
 }
 
