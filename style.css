@@ -128,11 +128,7 @@ p.papa {
   text-align: center;
 }
 
-p.space {
-  float: left;
+.topnav a.active2 {
+  background-color: #800080;
   color: #800080;
-  padding: 14px 14px;
-  text-decoration: none;
-  font-size: 10px;
-  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", "sans serif";
 }
