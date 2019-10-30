@@ -115,6 +115,7 @@ body.papa {
 .topnav a:hover {
   background-color: #a9a9a9;
   color: #a9a9a9;
+  opacity: 0.5;
 }
 
 .topnav a.active {
