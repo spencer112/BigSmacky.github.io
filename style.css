@@ -113,12 +113,12 @@ body.papa {
 }
 
 .topnav a:hover {
-  background-color: #800080;
-  color: white;
+  background-color: #a9a9a9;
+  color: #a9a9a9;
 }
 
 .topnav a.active {
-  background-color: #d3d3d3;
+  background-color: #800080;
   color: white;
 }
 
