@@ -101,8 +101,8 @@ body.papa {
   overflow: hidden;
   background-color: #800080;
   text-align: center;
-  display: inline-block;
-  list-style-type: none;
+  list-style:none;
+  margin:0;
 }
 
 .topnav a {
@@ -113,6 +113,7 @@ body.papa {
   text-decoration: none;
   font-size: 20px;
   font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", "sans serif";
+  display:inline;
 }
 
 .topnav a:hover {
@@ -124,6 +125,7 @@ body.papa {
 .topnav a.active {
   background-color: #800080;
   color: 000000;
+  display:inline-block;
 }
 
 p.papa {
