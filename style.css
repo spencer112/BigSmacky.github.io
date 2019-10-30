@@ -101,7 +101,8 @@ body.papa {
   overflow: hidden;
   background-color: #800080;
   text-align: center;
-  margin:0 auto;
+  display: inline-block;
+  list-style-type: none;
 }
 
 .topnav a {
