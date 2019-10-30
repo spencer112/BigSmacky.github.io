@@ -101,6 +101,7 @@ body.papa {
   overflow: hidden;
   background-color: #800080;
   text-align: center;
+  margin:0 auto;
 }
 
 .topnav a {
