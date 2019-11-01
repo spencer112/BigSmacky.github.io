@@ -23,7 +23,7 @@ flash24 = Robot Unicorn Attack
 
 flash25 = Super Smash Flash
 
-flash26 = 
+flash26 = Pac-man
 
 flash27 = 
 
