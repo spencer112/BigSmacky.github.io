@@ -25,7 +25,7 @@ flash25 = Super Smash Flash
 
 flash26 = Pac-man
 
-flash27 = 
+flash27 = Pong
 
 flash28 = 
 
