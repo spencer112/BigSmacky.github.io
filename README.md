@@ -20,3 +20,15 @@ flash22 = LTF2
 flash23 = Jacksmith
 
 flash24 = Robot Unicorn Attack
+
+flash25 = Super Smash Flash
+
+flash26 = 
+
+flash27 = 
+
+flash28 = 
+
+flash29 = 
+
+flash30 = 
