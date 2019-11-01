@@ -36,3 +36,7 @@ flash30 = Donkey Kong
 flash31 = Sonic
 
 flash32 = Space Invaders
+
+flash33 = Super Mario Crossover
+
+flash34 = Flappy Bird
