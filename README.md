@@ -27,8 +27,12 @@ flash26 = Pac-man
 
 flash27 = Pong
 
-flash28 = 
+flash28 = Tetris
 
-flash29 = 
+flash29 = Centipede
 
-flash30 = 
+flash30 = Donkey Kong
+
+flash31 = Sonic
+
+flash32 = Space Invaders
