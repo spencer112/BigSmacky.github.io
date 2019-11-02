@@ -39,6 +39,22 @@ p.maintext {
 	position: relative;	
 }
 
+footer {
+	white-space: pre-wrap;
+	font-variant-ligatures: none;
+	font-style: inherit;
+	font-family: Lato, sans-serif;
+	font-weight: 400;
+	line-height: 1.4;
+	color: white;
+	box-sizing: border-box;
+	display: inline-block;
+	max-width: 100%;
+	pointer-events: all;
+	position: relative;	
+	font-size: 15px;
+}
+
 h1.logo {
   text-align: center;
 }
