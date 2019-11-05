@@ -1,4 +1,46 @@
 # BigSmacky.github.io
-We've got a new address, but that doesn't matter, cuz you're always home at Big Smacky's. Please pick up where you left off, playing games and having fun on Big Smackys. Let your freinds know we're back, and remember: the school may have tripped us up, but NO ONE can hold Big Smacky Down!
-For navigating files:
-  - index.html is homepage
+The Big Smacky website folder. If you found this, good on you.
+
+papa1-15 are all the papas games
+
+flash16 = Bloons tower defense 5
+
+flash17 = Super mario 63
+
+flash18 = Strike Force Heroes 2
+
+flash19 = Battleship
+
+flash20 = Dino game
+
+flash21 = LTF3
+
+flash22 = LTF2
+
+flash23 = Jacksmith
+
+flash24 = Robot Unicorn Attack
+
+flash25 = Super Smash Flash
+
+flash26 = Pac-man
+
+flash27 = Pong
+
+flash28 = Tetris
+
+flash29 = Centipede
+
+flash30 = Donkey Kong
+
+flash31 = Sonic
+
+flash32 = Space Invaders
+
+flash33 = Super Mario Crossover
+
+flash34 = Flappy Bird
+
+Flash35 = run 2
+
+Flash36 = Mutilate a doll
