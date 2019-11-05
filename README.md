@@ -46,3 +46,21 @@ flash35 = run 2
 flash36 = Mutilate a doll
 
 flash37 = Doom
+
+flash38 = ageofwar.swf	
+
+flash39 = SMflash.swf
+	
+flash40 = happywheels.swf	
+
+flash41 = feudalism2.swf	
+
+flash42 = fallout.swf	
+
+flash43 = tanks.swf		
+
+flash44 = getout.swf	
+
+flash45 = FPadventures.swf	
+
+flash46 = duckhunt.swf
