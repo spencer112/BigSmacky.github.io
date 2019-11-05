@@ -40,3 +40,7 @@ flash32 = Space Invaders
 flash33 = Super Mario Crossover
 
 flash34 = Flappy Bird
+
+Flash35 = run 2
+
+Flash36 = Mutilate a doll
