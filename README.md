@@ -41,6 +41,8 @@ flash33 = Super Mario Crossover
 
 flash34 = Flappy Bird
 
-Flash35 = run 2
+flash35 = run 2
 
-Flash36 = Mutilate a doll
+flash36 = Mutilate a doll
+
+flash37 = Doom
