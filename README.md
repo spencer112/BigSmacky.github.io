@@ -64,3 +64,5 @@ flash44 = getout.swf
 flash45 = FPadventures.swf	
 
 flash46 = duckhunt.swf
+
+flash47 = motoX3M.swf
