@@ -1,6 +1,8 @@
 # BigSmacky.github.io
 The Big Smacky website folder. If you found this, good on you.
 
+https://smallbiztrends.com/2017/05/how-to-make-a-mailing-list-in-gmail.html
+
 papa1-15 are all the papas games
 
 flash16 = Bloons tower defense 5
