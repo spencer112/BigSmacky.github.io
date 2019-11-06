@@ -68,3 +68,5 @@ flash45 = FPadventures.swf
 flash46 = duckhunt.swf
 
 flash47 = motoX3M.swf
+
+flash48 = Coreball (html5)
