@@ -72,3 +72,5 @@ flash48 = Coreball (html5)
 flash49 = cargobridge2
 
 flash50 = sports heads football
+
+flash51 = sports heads basketball
