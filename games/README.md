@@ -64,3 +64,9 @@ flash44 = getout.swf
 flash45 = FPadventures.swf	
 
 flash46 = duckhunt.swf
+
+flash47 = motoX3M.swf
+
+flash48 = Coreball (html5)
+
+flash49 = cargobridge2
