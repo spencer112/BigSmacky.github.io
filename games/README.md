@@ -75,4 +75,16 @@ flash50 = sports heads football
 
 flash51 = sports heads basketball
 
-flash52 = 
+flash52 = sports heads tennis
+
+flash53 = wonderputt
+
+flash54 = 40x escape
+
+flash55 = bloxors 
+
+flash56 = diggy
+
+flash57 = civiballs 1
+
+flash 58 = civiballs 2
